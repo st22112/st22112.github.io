@@ -71,12 +71,12 @@ body {
 	padding: 15px;
 	margin: 15px;
 }
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 611px) {
 	.title {
 		font-size: 80px;
 	}
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 610px) {
 	.title {
 		font-size: 60px;
 	}
