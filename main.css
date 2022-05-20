@@ -63,7 +63,7 @@ body {
 .fortyTwo {
 }
 
-.title {			/*title*/
+.title {
 	font-size: 80px;
 	display: flex;
 	flex-shrink: 0;
@@ -71,6 +71,8 @@ body {
 	padding: 15px;
 	margin: 15px;
 }
+/*Title font scaling*/
+
 @media screen and (min-width: 911px) {
 	.title {
 		font-size: 80px;
@@ -80,6 +82,7 @@ body {
 	.title {
 		font-size: 60px;
 	}
+
 }
 .titleText {			/*title text*/
 	font-size: 1em;
