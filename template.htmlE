@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="preload" href="main.css" as="style">
-		<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="main.css">
 	</head>
 	<body>
 		<div class="fortyTwo">
@@ -23,9 +23,9 @@
 				</div>
 
 				<div class="stuff">
-					<h1>no one</h1>
-					<img src="/images/something.png" class="image" alt="someone">	<!--someone is the best-->
-					<p>ok &lt;3</p>
+					<h1>hii</h1>
+					<p>text</p>
+					<a href="/ok"><img src="/images/something.png" class="image" alt="someone"></a>	<!--someone is the best-->
 				</div>
 			</div>
 			<div class="programmingSocks">
