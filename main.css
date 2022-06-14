@@ -138,6 +138,7 @@ body {
 
 .stuff {			/*content*/
 	font-size: 20px;
+	line-height: 1.5;
 	padding: 15px;
 	margin: 15px;
 	flex-grow: 1;
@@ -168,7 +169,6 @@ hr {
 	border-radius: 5px;
 }
 
-.bold {
-	font-weight: bold;
-	color: var(--fgColourBold);
+strong {
+	color: var(--FgColourBold);
 }
