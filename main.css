@@ -164,6 +164,14 @@ body {
 	height: auto;
 }
 
+.boo {
+	visibility: hidden;
+}
+
+.boo {
+	visibility: visible;
+}
+
 hr {
 	border: 2px solid var(--lineColour);
 	border-radius: 5px;
