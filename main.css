@@ -168,7 +168,7 @@ body {
 	visibility: hidden;
 }
 
-.boo {
+.boo:hover {
 	visibility: visible;
 }
 
